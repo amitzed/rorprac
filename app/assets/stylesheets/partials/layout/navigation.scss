@@ -1,5 +1,5 @@
 body {
-  margin-top: 50px;
+	margin-top: 50px;
 }
 
 nav {
@@ -20,21 +20,21 @@ nav {
   }
 }
 
-.navbar-default, navbar-toggle:focus, .collapsed, button.navbar-toggle {
-  background-color: $navbarColor !important;
-  border: none;
-  a {
-    color: white !important;
-  }
+.navbar-default, .navbar-toggle:focus, .collapsed, button.navbar-toggle {
+  background: $navbarColor !important;
+	border: none;
+	a {
+	  color: white !important;
+	}
 }
 
 .navbar-toggle, .navbar-collapse {
-  border-color: $navbarColor !important;
-  box-shadow: none;
+	border-color: $navbarColor !important;
+	box-shadow: none;
 }
 
 .navbar-brand {
-  margin: 0 0 0 10px !important;
+	margin: 0 0 0 10px !important;
 }
 
 .brand-mobile {
