@@ -1,3 +1,23 @@
+.page-name {
+  margin: 15px 0px 15px 0px;
+  text-align: center;
+  background-color: white !important;
+  font-weight: bold;
+  a {
+    color: black;
+    transition: 0.1s ease-in-out;
+    -webkit-transition: 0.1s ease-in-out;
+    -moz-transition: 0.1s ease-in-out;
+    -o-transition: 0.1s ease-in-out;
+    -ms-transition: 0.1s ease-in-out;
+
+  }
+  a:hover {
+    text-decoration: underline;
+    color: #FF6714;
+  }
+}
+
 #main-content {
   background: white;
   min-height: 800px;
