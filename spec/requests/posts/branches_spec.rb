@@ -1,4 +1,4 @@
-require 'rails-helper'
+require 'rails_helper'
 include Warden::Test::Helpers
 RSpec.describe "branches", :type => :request do
 
