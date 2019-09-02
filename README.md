@@ -9,10 +9,6 @@
 Some images up to how app currently looks:
 
 <p align="center">
-  <img src="svg1.png" width="650" title="hover text">
-</p>
-
-<p align="center">
   <img src="/app/assets/images/img-1.png" width="300" title="hover text">
   <img src="/app/assets/images/img-2.png" width="300" title="hover text">
 </p>
