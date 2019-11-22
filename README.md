@@ -1,6 +1,6 @@
 # Ruby on Rails practice
 
-#### In Progress...
+#### In Progress....
 1. Terminal 1: postgres -D /usr/local/var/postgres
 2. Terminal 2: psql postgres THEN \c rorprac_development
 3. Terminal 3: rails s
